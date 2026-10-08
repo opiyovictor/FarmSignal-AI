@@ -1,0 +1,18 @@
+feature,mean_abs_shap
+days_since_last_farm_visit,2.4264278
+input_redemption_rate,1.4413202
+agronomic_training_attendance,1.3886346
+group_repayment_avg,1.1931511
+prior_season_yield_index,0.9899427
+mobile_money_active,0.9011482
+distance_to_agrodealer_km,0.66998744
+years_with_program,0.4121115
+loan_amount_kes,0.39383987
+age,0.16330913
+farm_size_acres,0.1170877
+region_Trans Nzoia,0.038481463
+gender_M,0.032383833
+region_Vihiga,0.016561667
+region_Siaya,0.015092557
+region_Kakamega,0.011798928
+region_Busia,0.009872886

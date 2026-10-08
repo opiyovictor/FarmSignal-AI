@@ -1,0 +1,7 @@
+# FarmSignal AI — Streamlit Community Cloud runtime
+# Only packages imported by src/dashboard.py are required to run the dashboard.
+# The trained model outputs are already included in data/, models/ and logs/.
+streamlit==1.50.0
+pandas==2.3.3
+numpy==2.2.6
+plotly==6.3.0

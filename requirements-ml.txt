@@ -1,0 +1,7 @@
+# Optional ML/training environment — NOT required by Streamlit Community Cloud.
+# Use this only when regenerating data or retraining the model locally.
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+xgboost==3.0.2
+shap==0.50.0
